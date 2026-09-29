@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 130" width="100%" height="100%" role="img" aria-label="Catamarca Capital — Secretaría de Gobierno y Coordinación — Dirección General de Recursos Humanos — Nodo Tecnológico">
+  <rect width="1200" height="130" fill="#FFFFFF" />
+
+  <!-- 1. Left Emblem (Catamarca Capital Stepped Mosaic) -->
+  <g id="catamarca-emblem">
+    <!-- Row 1 (Top) -->
+    <rect x="28" y="25" width="5" height="16" fill="#DF8E18" />
+    <rect x="33" y="25" width="11" height="16" fill="#119CC1" />
+    <rect x="44" y="25" width="16" height="16" fill="#041E49" />
+
+    <!-- Row 2 -->
+    <rect x="43" y="41" width="5" height="16" fill="#DF8E18" />
+    <rect x="48" y="41" width="11" height="16" fill="#119CC1" />
+    <rect x="59" y="41" width="16" height="16" fill="#041E49" />
+
+    <!-- Row 3 (Center Chevron + Blocks) -->
+    <polygon points="43,53 55,65 43,77 48,77 60,65 48,53" fill="#DF8E18" />
+    <polygon points="48,57 59,57 59,73 48,73 56,65" fill="#119CC1" />
+    <rect x="59" y="57" width="14" height="16" fill="#119CC1" />
+    <rect x="73" y="57" width="16" height="16" fill="#041E49" />
+
+    <!-- Row 4 -->
+    <rect x="43" y="73" width="5" height="16" fill="#DF8E18" />
+    <rect x="48" y="73" width="11" height="16" fill="#119CC1" />
+    <rect x="59" y="73" width="16" height="16" fill="#041E49" />
+
+    <!-- Row 5 (Bottom) -->
+    <rect x="28" y="89" width="5" height="16" fill="#DF8E18" />
+    <rect x="33" y="89" width="11" height="16" fill="#119CC1" />
+    <rect x="44" y="89" width="16" height="16" fill="#041E49" />
+  </g>
+
+  <!-- Catamarca Capital. Wordmark -->
+  <g fill="#041E49" font-family="'Plus Jakarta Sans', 'Arial Black', sans-serif" font-weight="800">
+    <text x="98" y="61" font-size="40" letter-spacing="-0.5">Catamarca</text>
+    <text x="98" y="98" font-size="40" letter-spacing="-0.5">Capital.</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="358" y1="28" x2="358" y2="104" stroke="#041E49" stroke-width="3.5" />
+
+  <!-- 2. Secretaría de Gobierno y Coordinación -->
+  <g fill="#041E49" font-family="'Plus Jakarta Sans', Arial, sans-serif">
+    <text x="386" y="45" font-size="19" font-weight="500">Secretaría de</text>
+    <text x="386" y="73" font-size="30" font-weight="700" letter-spacing="-0.3">Gobierno y</text>
+    <text x="386" y="101" font-size="30" font-weight="700" letter-spacing="-0.3">Coordinación</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="606" y1="28" x2="606" y2="104" stroke="#041E49" stroke-width="3.5" />
+
+  <!-- 3. Dirección General de Recursos Humanos -->
+  <g fill="#041E49" font-family="'Plus Jakarta Sans', Arial, sans-serif">
+    <text x="632" y="45" font-size="19" font-weight="500">Dirección General de</text>
+    <text x="632" y="74" font-size="30" font-weight="700" letter-spacing="-0.3">Recursos Humanos</text>
+  </g>
+
+  <!-- 4. NODO TECNOLÓGICO -->
+  <g id="nodo-tecnologico">
+    <!-- Top-left accent dot -->
+    <circle cx="978" cy="45" r="6" fill="#59B2E8" />
+
+    <!-- 'n' -->
+    <path d="M 992 78 L 992 59 C 992 47 1001 44 1010 44 C 1019 44 1028 47 1028 59 L 1028 78" fill="none" stroke="#59B2E8" stroke-width="11" stroke-linecap="round" />
+
+    <!-- 'O' -->
+    <circle cx="1057" cy="61" r="17" fill="none" stroke="#59B2E8" stroke-width="11" />
+
+    <!-- 'D' -->
+    <path d="M 1090 44 L 1106 44 C 1118 44 1126 51 1126 61 C 1126 71 1118 78 1106 78 L 1090 78 Z" fill="none" stroke="#59B2E8" stroke-width="11" stroke-linejoin="round" />
+
+    <!-- 'O' -->
+    <circle cx="1155" cy="61" r="17" fill="none" stroke="#59B2E8" stroke-width="11" />
+
+    <!-- TECNOLÓGICO subtitle -->
+    <text x="986" y="102" fill="#59B2E8" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12.5" font-weight="600" letter-spacing="5.6">TECNOLÓGICO</text>
+  </g>
+</svg>

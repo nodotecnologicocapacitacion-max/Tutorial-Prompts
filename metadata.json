@@ -1,0 +1,6 @@
+{
+  "name": "AulaPrompt — Tutor Interactivo de Ingeniería de Prompts",
+  "description": "Plataforma educativa y tutor interactivo de Inteligencia Artificial para aprender a redactar prompts profesionales paso a paso mediante la metodología de los 6 pilares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
